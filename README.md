@@ -23,7 +23,8 @@ To develop this lab, first of all, we created a new conda environment called 'cl
 The [data](https://github.com/lluis90badia/lab_readme/tree/main/csv) we have used was already provided by the task in **CSV** format.
 
 Here is an image of one of the files visualised in Jupyter:
-![image_csv](‪C:\Users\lluis\OneDrive\Escritorio\img1.PNG)
+
+![image_csv](‪https://drive.google.com/file/d/1Pqqh3M37xCYWH5h156dlhzB-DK7IuVX_/view?usp=sharing)
 
 ## Explanation of the process
 
