@@ -14,6 +14,8 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 8/2/2022
 
 ## Brief explanation of the lab
 
+The purpose is to know more about customer demographics and buying behaviour to be able subsequently to use predictive analytics to analyse the most profitable customers and their interactions.
+
 To develop this lab, first of all, we created a new conda environment called 'class' because it will be there where we will do the labs using all the packages that Conda groups. Moreover, we went through some basics to work with the Jupyter Notebook. Finally, we learned about Pandas to be ready to perform the tasks in the lab.
 
 ## Data files
