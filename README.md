@@ -20,7 +20,7 @@ To develop this lab, first of all, we created a new conda environment called 'cl
 
 ## Data files
 
-The [data](https://github.com/lluis90badia/lab_readme/tree/main/csv) we have used was alrady provided by the task in CSV format.
+The [data](https://github.com/lluis90badia/lab_readme/tree/main/csv) we have used was already provided by the task in CSV format.
 
 ## Explanation of the process
 
