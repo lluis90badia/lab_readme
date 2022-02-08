@@ -8,13 +8,14 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 8/2/2022
 
 ## Table of contents:
 - [Brief explanation of the lab](https://github.com/lluis90badia/lab_readme/blob/main/README.md#brief-explanation-of-the-lab)
-- Data files
-- Explanation of the process
-- Conclusions
+- [Data files](https://github.com/lluis90badia/lab_readme/blob/main/README.md#data-files)
+- [Explanation of the process](https://github.com/lluis90badia/lab_readme/blob/main/README.md#explanation-of-the-process)
+- [Conclusions](https://github.com/lluis90badia/lab_readme/blob/main/README.md#conclusions)
 
-## [Data files](https://github.com/lluis90badia/lab_readme/blob/main/README.md#data-files)
+## Brief explanation of the lab
 
+## Data files
 
-## [Explanation of the process](https://github.com/lluis90badia/lab_readme/blob/main/README.md#explanation-of-the-process)
+## Explanation of the process
 
-## [Conclusions](https://github.com/lluis90badia/lab_readme/blob/main/README.md#conclusions)
+## Conclusions
