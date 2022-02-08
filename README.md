@@ -6,4 +6,4 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 8/2/2022
 
 ![US_states_map](https://i.pinimg.com/originals/0b/61/3c/0b613c38e9fe0c3c290fc7a6efdd191c.png)
 
-Table of contents:
+## Table of contents:
