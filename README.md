@@ -33,4 +33,4 @@ The [data](https://github.com/lluis90badia/lab_readme/tree/main/csv) we have use
 
 ## Conclusions
 
-As we said before in the explanation, all the steps that has been performed are key to make our data ready for the next steps.
+As we said before in the explanation, all the steps that has been performed are key to make our data ready for the next steps (data visualisaton, Tableau, SQL, etc).
