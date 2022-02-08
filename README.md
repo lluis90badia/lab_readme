@@ -11,36 +11,9 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 8/2/2022
 - Data files
 - Explanation of the process
 - Conclusions
--
--
--
--
--
--
--
--
--
--
---
--
--
 
-## Brief explanation of the lab
--
--
--
--
---
--
--
---
--
--
--
--
---
--
--
--
---
--
+## [Data files](https://github.com/lluis90badia/lab_readme/blob/main/README.md#data-files)
+
+## [Explanation of the process](https://github.com/lluis90badia/lab_readme/blob/main/README.md#explanation-of-the-process)
+
+## [Conclusions](https://github.com/lluis90badia/lab_readme/blob/main/README.md#conclusions)
