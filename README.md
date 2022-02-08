@@ -22,13 +22,15 @@ To develop this lab, first of all, we created a new conda environment called 'cl
 
 The [data](https://github.com/lluis90badia/lab_readme/tree/main/csv) we have used was already provided by the task in **CSV** format.
 
-Here is an image of one of the files visualised in Jupyter:
-
-![image_csv](‪https://drive.google.com/file/d/1Pqqh3M37xCYWH5h156dlhzB-DK7IuVX_/view?usp=sharing)
-
 ## Explanation of the process
 
-
+1. First task is to read using Pandas the three files into Python as dataframes.
+2. After that, standarise the header names (to lowercase) all the files.
+3. Then rearrange the name of the columns for an easier understanding in one of the files.
+4. After that, concatenate the three dataframes into only one using the function concat().
+5. Then find out which columns are numericals and which are categoricals.
+6. Finally, we perform the data cleaning operations (deleting columns, checking for duplicate rows, etc.)
 
 ## Conclusions
 
+As we said before in the explanation, all the steps that has been performed are key to make our data ready for the next steps.
