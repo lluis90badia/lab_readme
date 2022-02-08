@@ -12,4 +12,4 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 8/2/2022
 - Explanation of the process
 - Conclusions
 
-fdg
+## Brief explanation of the lab
