@@ -4,8 +4,9 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 9/2/2022
 
 ## The purpose of this lab is to re-submit a previous jupyter lab project, but this time to present it in a proper way (more professional). In this case, we will re-submit the lab 'Imbalance Data' (8/2/2022).
 
-![US_states_map](https://datascience.aero/wp-content/themes/yootheme/cache/imbalancedata-1a747361.png)
-
+<p align = "center">
+  ![imbalance](https://datascience.aero/wp-content/themes/yootheme/cache/imbalancedata-1a747361.png)
+</p>
 ## Table of contents:
 - [Brief explanation of the lab](https://github.com/lluis90badia/lab_readme/blob/main/README.md#brief-explanation-of-the-lab)
 - [Data files](https://github.com/lluis90badia/lab_readme/blob/main/README.md#data-files)
