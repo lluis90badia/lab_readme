@@ -37,4 +37,4 @@ The [data](https://github.com/lluis90badia/lab_readme/tree/main/CSV_files) we ha
 
 ## Conclusions
 
-As we said before in the explanation, all the steps that has been performed are key to make our data ready for the next steps (data visualisaton, Tableau, SQL, etc).
+This lab is very useful to understand how to execute the appropiate methods when we have to measure classifications (in our case, it was binary classification). Therefore, the conclusion we have extracted has been that neither SMOTE nor Tomek link has been appropiate to get a better accuracy than the Logistic Regression method.
