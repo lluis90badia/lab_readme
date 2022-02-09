@@ -26,12 +26,14 @@ The [data](https://github.com/lluis90badia/lab_readme/tree/main/CSV_files) we ha
 
 ## Explanation of the process
 
-1. First task is to read using Pandas the three files into Python as dataframes.
-2. After that, standarise the header names (to lowercase) all the files.
-3. Then rearrange the name of the columns for an easier understanding in one of the files.
-4. After that, concatenate the three dataframes into only one using the function concat().
-5. Then find out which columns are numericals and which are categoricals.
-6. Finally, we perform the data cleaning operations (deleting columns, checking for duplicate rows, etc.)
+1. First task is to import all the packages and functions from Python that we will have to use.
+2. After that, we load the data from the CSV file.
+3. Moving on, we select the 'Churn' column as the dependent feature and 'tenure', 'SeniorCitizen' and 'MonthlyCharges' as the independent ones to predict the independent variable using (first) Logistic Regression.
+4. Then we scale the independent variables.
+5. After that, we build the Logistic Regression model splitting our variables (independents and dependent) between the train and the test data. After that, we define our model with maximum 500 iterations for classification. Finally we evaluated it to check the accuracy.
+6. To explain why we get that percentage of accuracy, we use the confusion matrix to determine our observed and predicted results in a more visualised way.
+7. Now is the time to use the SMOTE to correct (oversampling) the imbalance between the minority until the value level of the majority class check if the level of accuracy is better than the last method.
+8. Finally we do the same, but this time with the Tomek links method to reduce the majority class values that are in the border between classes and close to minority class values.
 
 ## Conclusions
 
