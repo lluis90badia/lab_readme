@@ -37,4 +37,4 @@ The [data](https://github.com/lluis90badia/lab_readme/tree/main/CSV_files) we ha
 
 ## Conclusions
 
-This lab is very useful to understand how to execute the appropiate methods when we have to measure classifications (in our case, it was binary classification). Therefore, the conclusion we have extracted has been that neither SMOTE nor Tomek link has been appropiate to get a better accuracy than the Logistic Regression method (we can see it in the last part of the lab when we calculate the Area Under the ROC Curve (AUC).
+This lab is very useful to understand how to execute the appropiate methods when we have to measure classifications (in our case, it was binary classification). Therefore, the conclusion we have extracted has been that **neither SMOTE nor Tomek link has been appropiate to get a better accuracy than the Logistic Regression method** (we can see it in the last part of the lab when we calculate the Area Under the ROC Curve (AUC).
